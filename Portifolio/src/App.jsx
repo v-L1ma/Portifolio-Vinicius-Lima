@@ -16,20 +16,20 @@ function App() {
 
       <section
         id="sobre"
-        className="m-auto w-11/12 h-screen text-center border-b-8 border-red-900"
+        className="m-auto w-11/12 text-center border-b-8 border-red-900 lg:h-screen"
       >
         <Sobre />
       </section>
 
-      <section id="habilidades" className="m-auto w-11/12 h-screen text-center border-b-8 border-red-900">
+      <section id="habilidades" className="m-auto w-11/12 lg:h-screen text-center border-b-8 border-red-900">
        <Habilidades/>
       </section>
 
-      <section id="projetos"  className="m-auto w-11/12 h-screen text-center border-b-8 border-red-900">
+      <section id="projetos"  className="m-auto w-11/12 lg:h-screen text-center border-b-8 border-red-900">
         <Projetos/>
       </section>
 
-      <section className="m-auto w-11/12 h-screen text-center border-b-8 border-red-900">
+      <section id="contato" className="m-auto w-11/12 lg:h-screen text-center border-b-8 border-red-900">
         <Contato/>
       </section>
     </main>

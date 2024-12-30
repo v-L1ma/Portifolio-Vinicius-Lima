@@ -9,13 +9,13 @@ function Projetos() {
 
       <div className="flex flex-wrap justify-center">
 
-            <div className=" w-80 h-96 bg-white bg-opacity-5 rounded-lg flex-col m-16 border">
-            <div className="h-4/6">
+            <div className="pb-5 w-80 lg:h-96 bg-white bg-opacity-5 rounded-lg flex-col m-16 border">
+            <div className="lg:h-4/6">
               <img src={adotaai} alt="" />
             </div>
 
-            <h2 className="text-3xl text-red-900 font-bold">AdotaAi.pet</h2>
-            <div className="flex ml-10 mt-5 gap-3">
+            <h2 className="pt-4 lg:pt-0 text-3xl text-red-900 font-bold">AdotaAi.pet</h2>
+            <div className="flex justify-center lg:ml-10 mt-5 gap-3">
               <a
                 href="https://v-l1ma.github.io/AdotaAi.Pet_older/"
                 target="_blank"
@@ -33,13 +33,13 @@ function Projetos() {
             </div>
           </div>
 
-          <div className=" w-80 h-96 bg-white bg-opacity-5 rounded-lg flex-col m-16 border">
-            <div className="h-4/6">
+          <div className="pb-5 w-80 lg:h-96 bg-white bg-opacity-5 rounded-lg flex-col m-16 border">
+            <div className="lg:h-4/6">
               <img src={todo} alt="" />
             </div>
 
-            <h2 className="text-3xl text-red-900 font-bold">Lista de tarefas</h2>
-            <div className="flex ml-10 mt-5 gap-3">
+            <h2 className="pt-4 lg:pt-0 text-3xl text-red-900 font-bold">Lista de tarefas</h2>
+            <div className="flex justify-center lg:ml-10 mt-5 gap-3">
               <a
                 href="https://v-l1ma.github.io/To-do-list/"
                 target="_blank"

@@ -7,7 +7,7 @@ function Habilidades() {
     <>
       <h1 className="text-5xl mt-9 text-red-900 font-bold">Minhas habilidades</h1>
 
-      <div className="flex gap-10 justify-center h-full items-center flex-wrap">
+      <div className="py-10 flex gap-10 justify-center h-full items-center flex-wrap">
         
         <div className="flex-col w-56 pb-9 border-4 border-red-900 rounded-lg hover:scale-105">
             <p className="text-9xl text-center flex justify-center mt-12">
