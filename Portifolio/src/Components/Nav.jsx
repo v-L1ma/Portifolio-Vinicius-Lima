@@ -16,7 +16,7 @@ function Navbar(){
         </ul>
 
         
-        <ul className="flex-col lg:h-16 items-center justify-end gap-10 text-2xl text-stone-50 font-bold ">
+        <ul className="flex-col lg:hidden lg:h-16 items-center justify-end gap-10 text-2xl text-stone-50 font-bold ">
             <li className="flex justify-end text-5xl p-5 pr-3" onClick={()=> setAbrirMenu(!abrirMenu)}><IoMenu /></li>
 
             {
