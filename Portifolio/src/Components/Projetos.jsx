@@ -17,13 +17,13 @@ function Projetos() {
             <h2 className="pt-4 lg:pt-0 text-3xl text-red-900 font-bold">AdotaAi.pet</h2>
             <div className="flex justify-center lg:ml-10 mt-5 gap-3">
               <a
-                href="https://v-l1ma.github.io/AdotaAi.Pet_older/"
+                href="https://github.com/v-L1ma/AdotaAi.pet"
                 target="_blank"
               >
                 <p className="w-28 border rounded-xl p-2 bg-red-900 font-black">VEJA</p>
               </a>
               <a
-                href="https://github.com/v-L1ma/AdotaAi.pet"
+                href="https://adotaai-pet.netlify.app/"
                 target="_blank"
               >
                 <p className="flex border text-red-900 w-28 p-2 bg-white font-black text-2xl justify-center rounded-xl">
